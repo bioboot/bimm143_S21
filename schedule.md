@@ -55,7 +55,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 - Pre-course [Questionnaire](https://forms.gle/Baivt9FYQEdk3a9g9){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
 - Sign up for our [Piazza class Q&A site](https://piazza.com/class/kmfe777thgu15u){:target="_blank"},     
-- View the class [**GradeBook**](https://docs.google.com/spreadsheets/d/1IwxMaI1d_-4s3zVP1IpVTR6GfP2bJh0I_NWfeL8POQ4/){:target="_blank"}.  
+- View the class [**GradeBook**](https://docs.google.com/spreadsheets/d/12UrK5BuyTkkiaOEFAzlTtEp9QfpqYglz_eXYjj5w9Fc/edit?usp=sharing){:target="_blank"}.  
 
 
 ---
