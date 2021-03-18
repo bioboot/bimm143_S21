@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Bioinformatics <br> (BIMM 143, Fall 2020)
+title: Bioinformatics <br> (BIMM 143, Spring 2021)
 selected_projects:
   - _projects/welcome-screencast.md
   - _projects/using-jetstream-for-bioinformatics.md
@@ -11,7 +11,7 @@ more_projects: projects.md
 <br>
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-  At the time of writing we are in the middle of a major COVID-19 pandemic crisis. Whilst we are making every effort to support your learning online, nothing is going to fully compensate for what we are going to lose in the next few months.  My hope is that this online course can serve as a venue where we build a vibrant supportive community and utilize this forced distancing as a productive learning time. 
+  At the time of writing we are still in the middle of a major COVID-19 pandemic crisis. Whilst we are making every effort to support your learning online, we would still love to hear your ideas and input on new things to try to improve your class experience.  My hope is that this online course can serve as a venue where we build a vibrant supportive community and utilize this forced distancing as a productive learning time. 
 </div>
 
 ## Overview
@@ -44,7 +44,7 @@ To fully participate in this course students will be expected to use their own  
 **N.B.** For the Fall 2020 quarter, BIMM-143 will be offered online only.**   Video lectures, screencast hands-on sessions and supporting material will be available on a weekly basis throughout the quarter.  Hands-on sessions will require both individual and small group based computational work. A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
 
 ## Class announcements:  
-All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza](https://piazza.com/ucsd/fall2020/bimm143/home){:target="_blank"} to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email.  
+All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza](https://piazza.com/class/kmfe777thgu15u){:target="_blank"} to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email.  
 
 ## Office hours:  
 We will use [Zoom](https://ucsd.zoom.us/){:target="_blank"} on a weekly basis at a time to be determined from student polling. For now email me for a time and we will make it happen.
@@ -54,11 +54,11 @@ We will use [Zoom](https://ucsd.zoom.us/){:target="_blank"} on a weekly basis at
 There is no textbook for the course. Lecture notes, homework assignments, grading criteria, video lectures, hands-on session screencasts and required reading material will be available from this public facing course website.  
 
 ## Syllabus:  
-A detailed [syllabus]({{ site.baseurl }}/class-material/BIMM143_F20_syllabus.pdf){:.no-push-state} with topic outlines and learning goals is available for download.
+A detailed [syllabus]({{ site.baseurl }}/class-material/BIMM143_S21_syllabus.pdf){:.no-push-state} with topic outlines and learning goals is available for download.
 
 ## Surveys:
 Please help us improve this course by completing by completing these surveys before and after the course. Thank you!
-* [Pre-course questionnaire](https://forms.gle/sZCwknXUm8W5T1v2A){:target="_blank"}  
+* [Pre-course questionnaire](https://forms.gle/Baivt9FYQEdk3a9g9){:target="_blank"}  
 * [Post-course questionnaire]({{ site.baseurl }}/404/)  
 
 ## Acknowledgments:
