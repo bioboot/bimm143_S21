@@ -48,8 +48,6 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 **Videos:**
 - 0.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/hXd58ESRf9w){:target="_blank"}  
 - 0.2 - [Website overview (finding course content and installing software)](http://youtu.be/DjUZaPHxObk){:target="_blank"}  
-- 0.3 - [Meet the team (Barry, Alena, Ivy & Kritin)](http://youtu.be/AiTR7sDXc8M){:target="_blank"}  
-- 0.4 - [Signing up for Piazza](https://youtu.be/aswdH8vXiB0){:target="_blank"}  
 
 
 **Supporting material:**  
@@ -156,9 +154,9 @@ The [**find-a-gene project**]({{ site.baseurl }}/class-material/Find_A_Gene_Proj
  
 You may wish to consult the scoring rubric at the end of the above linked project description and the [**example report**]({{ site.baseurl }}/class-material/Find_A_Gene_Project_Example.pdf){:.no-push-state} for format and content guidance.  
  
-Your responses to questions Q1-Q4 are due **Tuesday Nov 3rd** (11/03/20) at 12pm San Diego time.   
+Your responses to questions Q1-Q4 are due **Monday April 12th** (04/12/21) at 12pm San Diego time.   
  
-The complete assignment, including responses to all questions, is due **Friday Dec 11th** (12/11/20) at 12pm San Diego time.  
+The complete assignment, including responses to all questions, is due **Monday May 31st** (05/31/21). at 12pm San Diego time.  
  
 In both instances your PDF format report should be submitted to GradeScope. Late responses will not be accepted under any circumstances.    
 
