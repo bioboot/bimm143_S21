@@ -129,11 +129,11 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 
 **Homework**:   
-- [Questions](https://forms.gle/qZdye3Z1rp5RGs3Q9){:.no-push-state}{:target="_blank"},  
+- [Questions](https://forms.gle/6aPiH2qkMeRUmprw8){:.no-push-state}{:target="_blank"},  
 - Submit your completed lab report (i.e. filled in PDF form) to [GradeScope](https://www.gradescope.com/courses/255804){:.no-push-state}{:target="_blank"},  
 - For next week please [install R and RStudio](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu){:.no-push-state}{:target="_blank"},  
 - Complete the following [Alignment Problem]({{ site.baseurl }}/class-material/wk2_homework.pdf){:.no-push-state}{:target="_blank"},  
-- DataCamp: Sign-up to our **Bioinformatics F20 group/organization** via the link in your UCSD email (we will use this next week),   
+- DataCamp: Sign-up to our **Bioinformatics S21 group/organization** via the link on Piazza or in your UCSD email (we will use this next week),   
 
 
 
