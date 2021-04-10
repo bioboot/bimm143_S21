@@ -154,7 +154,7 @@ The [**find-a-gene project**]({{ site.baseurl }}/class-material/Find_A_Gene_Proj
  
 You may wish to consult the scoring rubric at the end of the above linked project description and the [**example report**]({{ site.baseurl }}/class-material/Find_A_Gene_Project_Example.pdf){:.no-push-state} for format and content guidance.  
  
-Your responses to questions Q1-Q4 are due **Monday April 12th** (04/12/21) at 12pm San Diego time.   
+Your responses to questions Q1-Q4 are due **Monday April 26th** (04/26/21) at 12pm San Diego time.   
  
 The complete assignment, including responses to all questions, is due **Monday May 31st** (05/31/21). at 12pm San Diego time.  
  
