@@ -312,7 +312,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 - Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-wk6.html){:.no-push-state}{:target="_blank"},  
 - Data files: [UK_foods.csv]({{ site.baseurl }}/class-material/UK_foods.csv){:.no-push-state}, [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.  
 - Lab: Live screencast [video walk-through](https://youtu.be/SERsmSnwpnk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.
-- Student Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
+- Student Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
 
 - Feedback: [Muddy point assessment](https://docs.google.com/forms/d/e/1FAIpQLSdiQn7n6XvvRGq5AfQWaRa7G22-twFCN4bYNANCWSK09DBYZg/viewform){:.no-push-state}.  
 
@@ -359,7 +359,7 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 - Lab: Live screencast [video walk-through](https://youtu.be/jfAlMYAJNw8){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
 - RNA-Seq data files: [HG00109_1.fastq]({{ site.baseurl }}/class-material/HG00109_1.fastq){:.no-push-state}, [HG00109_2.fastq]({{ site.baseurl }}/class-material/HG00109_2.fastq){:.no-push-state}, [genes.chr17.gtf]({{ site.baseurl }}/class-material/genes.chr17.gtf){:.no-push-state}, [Expression genotype results]({{ site.baseurl }}/class-material/rs8067378_ENSG00000172057.6.txt){:.no-push-state}.
 - [SAM/BAM file format description]({{ site.baseurl }}//class-material/sam_format/){:.no-push-state}{:target="_blank"}.  
-- Student Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
+- Student Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
 
 - Feedback: [Muddy point assessment](https://forms.gle/Qx4UTSc4zkpafRvq9){:.no-push-state}{:target="_blank"}.  
 
@@ -406,6 +406,7 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
   * [Using remote UNIX machines (Part II, Optional)]({{ site.baseurl }}/class-material/16_blast-02/){:.no-push-state},
   * [Using remote UNIX machines (Part III, Optional)]({{ site.baseurl }}/class-material/16_blast-03/){:.no-push-state}.  
 - Example data set [bggn213_01_unix.zip]({{ site.baseurl }}/class-material/bggn213_01_unix.zip){:.no-push-state},  
+- Student Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
 - [Muddy point assessment](https://goo.gl/forms/W2G06LVrn2pADB2q1){:.no-push-state}.  
  
 
@@ -446,7 +447,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/week09_lab_bimm143){:.no-push-state}{:target="_blank"},  
 - Lab: Live screencast [video walk-through](https://youtu.be/HnT1YL_KxQk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
 - Data files: [airway_scaledcounts.csv]({{ site.baseurl }}/class-material/airway_scaledcounts.csv){:.no-push-state}, [airway_metadata.csv]({{ site.baseurl }}/class-material/airway_metadata.csv){:.no-push-state}.  
-- Student Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
+- Student Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
 - [Muddy point assessment](https://goo.gl/forms/CjzYyzBT0VsuOvBt2){:.no-push-state}.  
 
 
