@@ -401,11 +401,13 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture16_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture16_BIMM143-small.pdf){:.no-push-state}{:target="_blank"}.
+- Lab screencast [Launching an AWS EC2 instance](http://youtu.be/5-Nxt85UmoA){:.no-push-state}{:target="_blank"},  
 - Hands-on section worksheet
-  * [Using remote UNIX machines (Part I, **REQUIRED**)]({{ site.baseurl }}/class-material/17_blast-01/){:.no-push-state}{:target="_blank"},
-  * [Using remote UNIX machines (Part II, Optional)]({{ site.baseurl }}/class-material/16_blast-02/){:.no-push-state},
-  * [Using remote UNIX machines (Part III, Optional)]({{ site.baseurl }}/class-material/16_blast-03/){:.no-push-state}.  
-- Example data set [bggn213_01_unix.zip]({{ site.baseurl }}/class-material/bggn213_01_unix.zip){:.no-push-state},  
+  * (Part I, **REQUIRED**) [Starting your own computer in the cloud]({{ site.baseurl }}/class-material/aws_01.html){:.no-push-state}{:target="_blank"},
+  * (Part II, **REQUIRED**) [Accessing and using your AWS instance]({{ site.baseurl }}/class-material/aws_02/){:.no-push-state}{:target="_blank"},  
+  * (Part III, Skip) [Using remote UNIX machines III]({{ site.baseurl }}/class-material/16_blast-02/){:.no-push-state},
+  * (Part IV, Skip) [Using remote UNIX machines IV]({{ site.baseurl }}/class-material/16_blast-03/){:.no-push-state}.  
+- AWS Console URL: [https://awsed.ucsd.edu/](https://awsed.ucsd.edu/){:.no-push-state}{:target="_blank"}.  
 - Student Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/j/91751134760){:.no-push-state}{:target="_blank"},   
 - [Muddy point assessment](https://goo.gl/forms/W2G06LVrn2pADB2q1){:.no-push-state}.  
  
