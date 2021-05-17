@@ -421,6 +421,14 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
  
 
 
+
+
+**Extra Credit Opportunity**:  
+- [Data wrangling in R the tidy way]({{ site.baseurl }}/class-material/extracredit/Tidy_mini_project_part_1.html){:.no-push-state}{:target="_blank"},  
+- [Introduction to Nanopore direct RNA sequencing (PPT format)]({{ site.baseurl }}/class-material/extracredit/Nanopore_sequencing.pptx){:.no-push-state}{:target="_blank"},  
+- Data files: [dictionary.tsv]({{ site.baseurl }}/class-material/extracredit/dictionary.tsv){:.no-push-state}{:target="_blank"}, [polya_results_with_ERCC.tsv]({{ site.baseurl }}/class-material/extracredit/polya_results_with_ERCC.tsv){:.no-push-state}{:target="_blank"}.   
+
+
 ---
 <a name="9"></a>
 ## Week 9: Transcriptomics and the analysis of RNA-Seq data
