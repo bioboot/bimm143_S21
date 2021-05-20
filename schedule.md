@@ -427,7 +427,7 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 - [Data wrangling in R the tidy way]({{ site.baseurl }}/class-material/extracredit/Tidy_mini_project_part_1.html){:.no-push-state}{:target="_blank"},  
 - [Introduction to Nanopore direct RNA sequencing (PPT format)]({{ site.baseurl }}/class-material/extracredit/Nanopore_sequencing.pptx){:.no-push-state}{:target="_blank"},  
 - Data files: [dictionary.tsv]({{ site.baseurl }}/class-material/extracredit/dictionary.tsv){:.no-push-state}{:target="_blank"}, [polya_results_with_ERCC.tsv]({{ site.baseurl }}/class-material/extracredit/polya_results_with_ERCC.tsv){:.no-push-state}{:target="_blank"}.   
-
+- [**Extra credit assignment**]({{ site.baseurl }}/class-material/extracredit/Extra_credit_part1.pdf){:.no-push-state}{:target="_blank"} and required [coveragebyzip_od.csv]({{ site.baseurl }}/class-material/extracredit/coveragebyzip_od.csv){:.no-push-state}{:target="_blank"}.  
 
 ---
 <a name="9"></a>
